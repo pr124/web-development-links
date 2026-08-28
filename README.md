@@ -7,6 +7,7 @@ A curated toolkit for designing and building distinctive web interfaces — from
 ## Contents
 
 - [Design Inspiration](#design-inspiration)
+- [Visual Foundations](#visual-foundations)
 - [UI Component Libraries](#ui-component-libraries)
 - [Animation & Interactive Effects](#animation--interactive-effects)
 - [MCP & Agent Tools](#mcp--agent-tools)
@@ -25,6 +26,26 @@ Reference libraries for finding visual directions, page patterns, and interactio
 - [Collect UI](https://collectui.com/) - Browse daily UI concepts by interface pattern.
 - [Recent Design](https://recent.design/) - Discover recently launched websites and emerging directions.
 - [Motion Sites](https://www.motionsites.org/) - Find animated websites, sections, templates, and motion references.
+- [Design Engineer Tools](https://designengineer.tools/) - Discover tools for designing and building expressive interfaces.
+- [Component Gallery](https://component.gallery/) - Compare common UI component patterns across design systems.
+
+---
+
+## Visual Foundations
+
+Typography, color, and icon resources for establishing a coherent visual language before assembling components.
+
+### Type & Color
+
+- [Google Fonts](https://fonts.google.com/) - Browse and use open-source web typefaces.
+- [Coolors](https://coolors.co/) - Generate, refine, and test color palettes.
+
+### Icons
+
+- [Lucide](https://lucide.dev/) - Use a clean, consistent open-source icon set.
+- [Phosphor Icons](https://phosphoricons.com/) - Choose flexible icons across multiple weights and styles.
+- [Tabler Icons](https://tabler.io/icons) - Browse a large collection of customizable SVG icons.
+- [Iconoir](https://iconoir.com/) - Add lightweight open-source icons to web interfaces.
 
 ---
 
@@ -53,6 +74,8 @@ Libraries and playgrounds for purposeful movement, transitions, and interactive 
 
 - [Motion](https://motion.dev/) - Build production-grade JavaScript and React animations.
 - [Anime.js](https://animejs.com/) - Animate CSS, SVG, DOM attributes, and JavaScript objects with a lightweight engine.
+- [Lottie](https://lottiefiles.com/) - Find and implement lightweight vector animations.
+- [Anim8](https://www.tryanim8.com/#product) - Create polished animation assets and interactions.
 - [Transitions](https://transitions.dev/) - Use copy-and-paste transition components and interaction patterns.
 - [Particles by Casberry](https://particles.casberry.in/) - Experiment with interactive Three.js and WebGL particle systems.
 
@@ -72,6 +95,7 @@ Bring high-quality interface references directly into AI-assisted design and dev
 Rules and reusable systems that help a collection of screens feel like one intentional product.
 
 - [UI Skills](https://ui-skills.com/) - Apply practical constraints when building polished interfaces with agents.
+- [Impeccable](https://impeccable.style/) - Give design and coding agents a structured UI/UX improvement workflow.
 - [Coss UI](https://coss.com/ui) - Explore open-source components, patterns, and design guidance.
 - [Design System Checklist](https://designsystemchecklist.com/) - Plan, build, document, and maintain a complete design system.
 
