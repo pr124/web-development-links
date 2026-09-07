@@ -28,6 +28,7 @@ Reference libraries for finding visual directions, page patterns, and interactio
 - [Motion Sites](https://www.motionsites.org/) - Find animated websites, sections, templates, and motion references.
 - [Design Engineer Tools](https://designengineer.tools/) - Discover tools for designing and building expressive interfaces.
 - [Component Gallery](https://component.gallery/) - Compare common UI component patterns across design systems.
+- [Landdding](https://landdding.com/) - Collection of web designs
 
 ---
 
