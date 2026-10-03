@@ -21,7 +21,7 @@ A curated toolkit for designing and building distinctive web interfaces — from
 Reference libraries for finding visual directions, page patterns, and interaction ideas before designing.
 
 - [Design Engineer Tools](https://designengineer.tools/) - Curated tools for design engineers.
-- [Designeer] - Collection of Website designs.
+- [Designeer](https://www.designeer.xyz/) - Collection of Website designs.
   
 ---
 
