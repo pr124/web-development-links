@@ -20,16 +20,9 @@ A curated toolkit for designing and building distinctive web interfaces — from
 
 Reference libraries for finding visual directions, page patterns, and interaction ideas before designing.
 
-- [Curated Design](https://curated.design/) - Browse hand-picked website inspiration across industries and styles.
-- [Refero Styles](https://styles.refero.design/) - Explore real websites organized by visual style.
-- [SaaSpo](https://saaspo.com/) - Study SaaS websites, product pages, and conversion patterns.
-- [Collect UI](https://collectui.com/) - Browse daily UI concepts by interface pattern.
-- [Recent Design](https://recent.design/) - Discover recently launched websites and emerging directions.
-- [Motion Sites](https://www.motionsites.org/) - Find animated websites, sections, templates, and motion references.
-- [Design Engineer Tools](https://designengineer.tools/) - Discover tools for designing and building expressive interfaces.
-- [Component Gallery](https://component.gallery/) - Compare common UI component patterns across design systems.
-- [Landdding](https://landdding.com/) - Collection of web designs
-
+- [Design Engineer Tools](https://designengineer.tools/) - Curated tools for design engineers.
+- [Designeer] - Collection of Website designs.
+  
 ---
 
 ## Visual Foundations
